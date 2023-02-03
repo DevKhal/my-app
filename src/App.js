@@ -16,7 +16,7 @@ function App(props) {
           id="new-todo-input"
           className="input input__lg"
           name="text"
-          autoComplete="off"
+          autoComplete="on"
         />
         <button type="submit" className="btn btn__primary btn__lg">
           Add
